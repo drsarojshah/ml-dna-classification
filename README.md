@@ -1,5 +1,5 @@
 # ml-dna-classification
-E.Coli DNA promoter Sequence Classification using Machine Learning
+E.Coli DNA promoter gene Sequence Classification using Machine Learning
 # 🧬 DNA Sequence Classification using Machine Learning
 
 📅 **Degree**: M.S. in Electrical and Computer Engineering
@@ -65,7 +65,8 @@ Key steps involved:
 │ ├── model_performance_chart.png
 │ ├── confusion_nb.png
 ├── Power_Point/
-│ └── DNA_Classification_PPT.pdf
+│ ├── DNA_Classification_PPT.pptx
+│ ├── DNA_Classification_PDF
 ├── README.md
 
 ```
