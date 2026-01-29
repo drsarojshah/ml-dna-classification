@@ -1,4 +1,4 @@
-# ml-dna
+# ml-dna-classification
 E.Coli DNA promoter Sequence Classification using Machine Learning
 # 🧬 DNA Sequence Classification using Machine Learning
 
@@ -83,7 +83,7 @@ Key steps involved:
 ## 📥 Downloads
 
 - 📘 [Final Report in the form of Power Point (PPT)](Power_Point/DNA_Classification_PPT.pptx)
-- 🔗 [View on GitHub](https://github.com/drsarojshah/ML_DNA_Classification)
+- 🔗 [View on GitHub](https://github.com/drsarojshah/ml-dna-classification)
 
 ---
 
